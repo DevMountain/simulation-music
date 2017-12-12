@@ -88,7 +88,7 @@ Good luck and work hard!
 * User is able to navigate to previous view, canceling the edit
 * User should be redirected to the All Songs view on completion
 
-# Technical Requirements - Back-end
+# Technical Requirements - Back end
 * The back end should be created using Express.
 * Massive will be used to establish a connection to your database and manipulate/retrieve data with SQL files
 * Student will create tables using the supplied data
