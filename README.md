@@ -54,12 +54,12 @@ Good luck and work hard!
 * User can filter songs by name / artist / album
 * User can reset an applied filter to see a list of All Songs again
 * User can navigate to Song Details view by clicking on a song in the list
-* User can navigate to Add song view through link in top corner
+* User can navigate to Add Song view through link in top corner
 * User can log out and be redirected back to the Auth View
 
 ## Details View
 * User is able to add song to playlist from here
-* User is able to navigate to Edit song view 
+* User is able to navigate to Edit Song view 
 * User is able to delete a song from the database
     * This should redirect the user back to the All Songs View
 * User is able to navigate to previous view
@@ -70,7 +70,6 @@ Good luck and work hard!
 * User can check out
   * Should add the songs in the playlist to an order on the past orders page
   * Should clear the playlist
-  * Should update songs from in stock to out of stock
 * User should be redirected to the All Songs view on checkout
 
 ## All Playlists View
