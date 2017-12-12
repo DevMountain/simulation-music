@@ -69,7 +69,7 @@ Good luck and work hard!
 * User is able to remove a song from playlist and playlist is updated in header and component
 * User can check out
   * Should add the songs in the playlist to an order on the past orders page
-  * Should clear the playlist
+  * Should clear the Playlist View
 * User should be redirected to the All Songs view on checkout
 
 ## All Playlists View
@@ -89,7 +89,7 @@ Good luck and work hard!
 * User should be redirected to the All Songs view on completion
 
 # Technical Requirements - Back-end
-* The back-end should be created using express.
+* The back end should be created using Express.
 * Massive will be used to establish a connection to your database and manipulate/retrieve data with SQL files
 * Student will create tables using the supplied data
 
